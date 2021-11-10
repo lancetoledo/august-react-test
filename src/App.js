@@ -26,7 +26,7 @@ import Job from './component/Job';
 function App() {
 
     // Paste the api url given by your instructor here:
-    const url = ""
+    const url = "https://cpbootcamp.proxy.beeceptor.com/devjobs"
     //HINT: This array may be useful somewhere!
     let filtered = []
     //Replace any instance of placeholder with something else
