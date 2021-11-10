@@ -1,6 +1,6 @@
 import React from 'react'
-
-export default function Job({data}) {
+// How do we pass our props in
+export default function Job() {
     
 
     const applyNow = () => {
